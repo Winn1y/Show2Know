@@ -6,7 +6,7 @@
     <br>
 </p>
 <p align="center">
-    <h1> "目标可视化界的神仙水SK-II"</h1><br>
+    <a><strong> "目标可视化界的神仙水SK-II" </strong></a><br>
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-2.1-green">
 </p>
