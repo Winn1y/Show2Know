@@ -47,9 +47,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="100px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/nsfw-filter/nsfw-filter/commits?author=YegorZaremba" title="Code">💻</a> <a href="#design-YegorZaremba" title="Design">🎨</a> <a href="#ideas-YegorZaremba" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="100px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/Winn1y" title="Code">💻</a> <a href="https://github.com/Winn1y" title="Design">🎨</a> <a href="https://github.com/Winn1y" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Surge-Dan"><img src="https://avatars.githubusercontent.com/u/82951455?v=4" width="100px;" alt="
-Daniel Muei"/><br /><sub><b>Rasul</b></sub></a><br /><a href="https://github.com/nsfw-filter/nsfw-filter/issues?q=author%3Agovza" title="Bug reports">🐛</a> <a href="https://github.com/nsfw-filter/nsfw-filter/commits?author=govza" title="Code">💻</a></td>
+Daniel Muei"/><br /><sub><b>Rasul</b></sub></a><br /><a href="https://github.com/Surge-Dan" title="Bug reports">🐛</a> <a href="https://github.com/Surge-Dan" title="Code">💻</a></td>
     </tr>
 
   </tbody>
