@@ -41,68 +41,43 @@
 
 | Marker 点形状   |       可视化 |
 |:-----:|:----:|
-| ,        | ![小点](https://matplotlib.org/stable/_images/m01.png) |
-| .        | ![中点](https://matplotlib.org/stable/_images/m00.png) |
-| o        | ![大点](https://matplotlib.org/stable/_images/m02.png) |
-| v        | ![](https://matplotlib.org/stable/_images/m03.png) |
-| ^        | ![](https://matplotlib.org/stable/_images/m04.png) |
-| <        | ![](https://matplotlib.org/stable/_images/m05.png) |
-| \>        | ![](https://matplotlib.org/stable/_images/m06.png) |
-| 1        | ![](https://matplotlib.org/stable/_images/m07.png) |
-| 2        | ![](https://matplotlib.org/stable/_images/m08.png) |
-| 3        | ![](https://matplotlib.org/stable/_images/m09.png) |
-| 4        | ![](https://matplotlib.org/stable/_images/m10.png) |
-| 8        | ![](https://matplotlib.org/stable/_images/m11.png) |
-| s        | ![](https://matplotlib.org/stable/_images/m12.png) |
-| p        | ![](https://matplotlib.org/stable/_images/m13.png) |
-| P        | ![](https://matplotlib.org/stable/_images/m23.png) |
-| h        | ![](https://matplotlib.org/stable/_images/m15.png) |
-| H        | ![](https://matplotlib.org/stable/_images/m16.png) |
-| +        | ![](https://matplotlib.org/stable/_images/m17.png) |
-| x        | ![](https://matplotlib.org/stable/_images/m18.png) |
-| X        | ![](https://matplotlib.org/stable/_images/m24.png) |
-| D        | ![](https://matplotlib.org/stable/_images/m19.png) |
-| d        | ![](https://matplotlib.org/stable/_images/m20.png) |
-| &#124;        | ![](https://matplotlib.org/stable/_images/m21.png) |
-| _        | ![](https://matplotlib.org/stable/_images/m22.png) |
-| 0        | ![](https://matplotlib.org/stable/_images/m25.png) |
-| 1        | ![](https://matplotlib.org/stable/_images/m26.png) |
-| 2        | ![](https://matplotlib.org/stable/_images/m27.png) |
-| 3        | ![](https://matplotlib.org/stable/_images/m28.png) |
-| 4        | ![](https://matplotlib.org/stable/_images/m29.png) |
-| 5        | ![](https://matplotlib.org/stable/_images/m30.png) |
-| 6        | ![](https://matplotlib.org/stable/_images/m31.png) |
-| 7        | ![](https://matplotlib.org/stable/_images/m32.png) |
-| 8        | ![](https://matplotlib.org/stable/_images/m33.png) |
-| 9        | ![](https://matplotlib.org/stable/_images/m34.png) |
-| 10       | ![](https://matplotlib.org/stable/_images/m35.png) |
-| 11        | ![](https://matplotlib.org/stable/_images/m36.png) |
-| \$...\$        | ![](https://matplotlib.org/stable/_images/m37.png) |
-
-<table>
-  <tbody>
-     <tr>
-      <td align="center" valign="top" width="50%">Marker 点形状</td>
-      <td align="center" valign="top" width="50%">可视化</td>
-    </tr>
-     <tr>
-      <td align="center" valign="top" width="50%">,</td>
-      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m01.png" width="25px;"></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">.</td>
-      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m00.png" width="25px;"></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">o</td>
-      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m02.png" width="25px;"></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">\$...\$</td>
-      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m37.png" width="25px;"></td>
-    </tr>
-  </tbody>
-</table>
+| ,        | ![小点](./pics/Markers/DM_20230604155558_002.PNG) |
+| .        | ![中点](./pics/Markers/DM_20230604155558_001.PNG) |
+| o        | ![大点](./pics/Markers/DM_20230604155558_003.png) |
+| v        | ![](./pics/Markers/DM_20230604155558_004.png) |
+| ^        | ![](./pics/Markers/DM_20230604155558_005.png) |
+| <        | ![](./pics/Markers/DM_20230604155558_006.png) |
+| \>        | ![](./pics/Markers/DM_20230604155558_007.png) |
+| 1        | ![](./pics/Markers/DM_20230604155558_008.png) |
+| 2        | ![](./pics/Markers/DM_20230604155558_009.png) |
+| 3        | ![](./pics/Markers/DM_20230604155558_010.png) |
+| 4        | ![](./pics/Markers/DM_20230604155558_011.png) |
+| 8        | ![](./pics/Markers/DM_20230604155558_012.png) |
+| s        | ![](./pics/Markers/DM_20230604155558_013.png) |
+| p        | ![](./pics/Markers/DM_20230604155558_014.png) |
+| P        | ![](./pics/Markers/DM_20230604155558_015.png) |
+| h        | ![](./pics/Markers/DM_20230604155558_016.png) |
+| H        | ![](./pics/Markers/DM_20230604155558_017.png) |
+| +        | ![](./pics/Markers/DM_20230604155558_018.png) |
+| x        | ![](./pics/Markers/DM_20230604155558_019.png) |
+| X        | ![](./pics/Markers/DM_20230604155558_020.png) |
+| D        | ![](./pics/Markers/DM_20230604155558_022.png) |
+| d        | ![](./pics/Markers/DM_20230604155558_023.png) |
+| &#124;        | ![](./pics/Markers/DM_20230604155558_024.png) |
+| _        | ![](./pics/Markers/DM_20230604155558_025.png) |
+| 0        | ![](./pics/Markers/DM_20230604155558_026.png) |
+| 1        | ![](./pics/Markers/DM_20230604155558_027.png) |
+| 2        | ![](./pics/Markers/DM_20230604155558_028.png) |
+| 3        | ![](./pics/Markers/DM_20230604155558_029.png) |
+| 4        | ![](./pics/Markers/DM_20230604155558_030.png) |
+| 5        | ![](./pics/Markers/DM_20230604155558_031.png) |
+| 6        | ![](./pics/Markers/DM_20230604155558_032.png) |
+| 7        | ![](./pics/Markers/DM_20230604155558_033.png) |
+| 8        | ![](./pics/Markers/DM_20230604155558_034.png) |
+| 9        | ![](./pics/Markers/DM_20230604155558_035.png) |
+| 10       | ![](./pics/Markers/DM_20230604155558_036.png) |
+| 11        | ![](./pics/Markers/DM_20230604155558_037.png) |
+| \$...\$        | ![](./pics/Markers/DM_20230604155558_038.png) |
 
 
 ## Todo
