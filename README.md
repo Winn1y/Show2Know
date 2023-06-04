@@ -77,7 +77,7 @@
 | 9        | ![](pics/Markers/DM_20230604155558_035.PNG) |
 | 10       | ![](pics/Markers/DM_20230604155558_036.PNG) |
 | 11        | ![](pics/Markers/DM_20230604155558_037.PNG) |
-| \$...\$        | ![](pics/Markers/DM_20230604155558_038.PNG) |
+| &#36;...&#36;        | ![](pics/Markers/DM_20230604155558_038.PNG) |
 
 
 ## Todo
