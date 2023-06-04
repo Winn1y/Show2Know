@@ -95,7 +95,7 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 ![](pics/Cmap/DM_20230604164801_007.png)
 
 ### 带色盘演示
-`
+```
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import colors  # 注意！为了调整“色盘”，需要导入colors
@@ -112,7 +112,8 @@ plt.scatter(x, y, c=color, s=sizes, alpha=0.3, cmap='viridis',norm=changecolor)
 
 plt.colorbar()
 plt.show()
-`
+```
+
 ![](pics/Cmap/DM_20230604164801_008.png)
 
 ## Todo
