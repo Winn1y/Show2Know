@@ -4,7 +4,7 @@
 
 matplotlib.pyplot.scatter(x, y, s=None, c=None, marker=None, cmap=None, norm=None, vmin=None, vmax=None, alpha=None, linewidths=None, *, edgecolors=None, plotnonfinite=False, data=None, **kwargs)
 
-## **解析**
+## **参数解析**
 
 **x，y**：输入数据，要求务必长度一致。
 
@@ -27,10 +27,6 @@ matplotlib.pyplot.scatter(x, y, s=None, c=None, marker=None, cmap=None, norm=Non
 **edgecolors**：颜色或颜色序列，默认为 'face'，可选值有 'face', 'none', None。
 
 **plotnonfinite**：布尔值，设置是否使用非限定的 c ( inf, -inf 或 nan) 绘制点。
-
-
-
-
 
 
 
