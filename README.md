@@ -31,9 +31,9 @@
 
 ## 新闻
 
-**[2023/06/04] [v2.2版本](https://github.com/Winn1y/Show2Know): 新增Cmap笔记整理**
+**[2023/06/04] [v2.3版本](https://github.com/Winn1y/Show2Know): 新增Cmap笔记整理**
 
-[2023/06/01] [v2.1版本](https://github.com/Winn1y/Show2Know/tree/2.2):  新增Marker点形状笔记整理。
+[2023/06/01] [v2.2版本](https://github.com/Winn1y/Show2Know/tree/2.2):  新增Marker点形状笔记整理。
 
 [2023/05/25] [v2.1版本](https://github.com/Winn1y/Show2Know/tree/2.1):  Push基本版本，完善文档。
 
