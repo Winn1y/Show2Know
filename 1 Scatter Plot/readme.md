@@ -14,7 +14,7 @@ matplotlib.pyplot.scatter(x, y, s=None, c=None, marker=None, cmap=None, norm=Non
 
 **marker**：点的样式，默认小圆圈 'o'。
 
-**cmap**：Colormap，默认 None，标量或者是一个 colormap 的名字，只有 c 是一个浮点数数组的时才使用。如果没有申明就是 image.cmap。
+**cmap**：Colormap，默认 None，标量或者是一个 colormap 的名字，只有 c 是一个浮点数数组的时才使用。如果没有申明就是 image.cmap。 指的是matplotlib.colors.Colormap，相当于多个调色盘的合集
 
 **norm**：Normalize，默认 None，数据亮度在 0-1 之间，只有 c 是一个浮点数的数组的时才使用。
 
