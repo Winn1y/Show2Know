@@ -18,15 +18,15 @@ matplotlib.pyplot.scatter(x, y, s=None, c=None, marker=None, cmap=None, norm=Non
 
 **norm**：Normalize，默认 None，数据亮度在 0-1 之间，只有 c 是一个浮点数的数组的时才使用。
 
-vmin，vmax：：亮度设置，在 norm 参数存在时会忽略。
+**vmin，vmax**：亮度设置，在 norm 参数存在时会忽略。
 
-alpha：：透明度设置，0-1 之间，默认 None，即不透明。
+**alpha**：透明度设置，0-1 之间，默认 None，即不透明。
 
-linewidths：：标记点的长度。
+**linewidths**：标记点的长度。
 
-edgecolors：：颜色或颜色序列，默认为 'face'，可选值有 'face', 'none', None。
+**edgecolors**：颜色或颜色序列，默认为 'face'，可选值有 'face', 'none', None。
 
-plotnonfinite：：布尔值，设置是否使用非限定的 c ( inf, -inf 或 nan) 绘制点。
+**plotnonfinite**：布尔值，设置是否使用非限定的 c ( inf, -inf 或 nan) 绘制点。
 
 
 
