@@ -40,22 +40,22 @@
 ## Marker整理
 
 | Marker 点形状   |       可视化 |
-|:-----:|:----:|
-| ,        | ![小点](./pics/Markers/DM_20230604155558_002.PNG) |
-| .        | ![中点](./pics/Markers/DM_20230604155558_001.PNG) |
-| o        | ![大点](./pics/Markers/DM_20230604155558_003.png) |
-| v        | ![下三角](./pics/Markers/DM_20230604155558_004.png) |
-| ^        | ![上三角](./pics/Markers/DM_20230604155558_005.png) |
-| <        | ![左三角](./pics/Markers/DM_20230604155558_006.png) |
-| \>        | ![右三角](./pics/Markers/DM_20230604155558_007.png) |
-| 1        | ![下细三角](./pics/Markers/DM_20230604155558_008.png) |
-| 2        | ![上细三角](./pics/Markers/DM_20230604155558_009.png) |
-| 3        | ![左细三角](./pics/Markers/DM_20230604155558_010.png) |
-| 4        | ![右细三角](./pics/Markers/DM_20230604155558_011.png) |
-| 8        | ![圆](./pics/Markers/DM_20230604155558_012.png) |
-| s        | ![方](./pics/Markers/DM_20230604155558_013.png) |
-| p        | ![五角](./pics/Markers/DM_20230604155558_014.png) |
-| P        | ![十字](./pics/Markers/DM_20230604155558_015.png) |
+|:-------:|:------:|
+| ,        | ![](./pics/Markers/DM_20230604155558_002.PNG) |
+| .        | ![](./pics/Markers/DM_20230604155558_001.PNG) |
+| o        | ![](./pics/Markers/DM_20230604155558_003.png) |
+| v        | ![](./pics/Markers/DM_20230604155558_004.png) |
+| ^        | ![](./pics/Markers/DM_20230604155558_005.png) |
+| <        | ![](./pics/Markers/DM_20230604155558_006.png) |
+| \>        | ![](./pics/Markers/DM_20230604155558_007.png) |
+| 1        | ![](./pics/Markers/DM_20230604155558_008.png) |
+| 2        | ![](./pics/Markers/DM_20230604155558_009.png) |
+| 3        | ![](./pics/Markers/DM_20230604155558_010.png) |
+| 4        | ![](./pics/Markers/DM_20230604155558_011.png) |
+| 8        | ![](./pics/Markers/DM_20230604155558_012.png) |
+| s        | ![](./pics/Markers/DM_20230604155558_013.png) |
+| p        | ![](./pics/Markers/DM_20230604155558_014.png) |
+| P        | ![](./pics/Markers/DM_20230604155558_015.png) |
 | h        | ![](./pics/Markers/DM_20230604155558_016.png) |
 | H        | ![](./pics/Markers/DM_20230604155558_017.png) |
 | +        | ![](./pics/Markers/DM_20230604155558_018.png) |
