@@ -31,10 +31,53 @@
 
 ## 新闻
 
-**[2023/05/30] [v2.1版本](https://github.com/Winn1y/Show2Know): Push基本版本，完善文档。**
+**[2023/06/01] [v2.2版本](https://github.com/Winn1y/Show2Know): 新增Marker点形状笔记整理**
 
-[2023/05/25] [v2.0版本](https://github.com/Winn1y/Show2Know): 公开建立初始化Repo。
+[2023/05/25] [v2.1版本](https://github.com/Winn1y/Show2Know/releases/tag/2.1):  Push基本版本，完善文档。
 
+[2023/05/25] [v2.0版本](https://github.com/Winn1y/Show2Know/releases/tag/2.0): 公开建立初始化Repo。
+
+## Marker整理
+
+| Marker 点形状   |       可视化 |
+|:-----:|:----:|
+| ,        | ![小点](https://matplotlib.org/stable/_images/m01.png) |
+| .        | ![中点](https://matplotlib.org/stable/_images/m00.png) |
+| o        | ![大点](https://matplotlib.org/stable/_images/m02.png) |
+| v        | ![](https://matplotlib.org/stable/_images/m03.png) |
+| ^        | ![](https://matplotlib.org/stable/_images/m04.png) |
+| <        | ![](https://matplotlib.org/stable/_images/m05.png) |
+| \>        | ![](https://matplotlib.org/stable/_images/m06.png) |
+| 1        | ![](https://matplotlib.org/stable/_images/m07.png) |
+| 2        | ![](https://matplotlib.org/stable/_images/m08.png) |
+| 3        | ![](https://matplotlib.org/stable/_images/m09.png) |
+| 4        | ![](https://matplotlib.org/stable/_images/m10.png) |
+| 8        | ![](https://matplotlib.org/stable/_images/m11.png) |
+| s        | ![](https://matplotlib.org/stable/_images/m12.png) |
+| p        | ![](https://matplotlib.org/stable/_images/m13.png) |
+| P        | ![](https://matplotlib.org/stable/_images/m23.png) |
+| h        | ![](https://matplotlib.org/stable/_images/m15.png) |
+| H        | ![](https://matplotlib.org/stable/_images/m16.png) |
+| +        | ![](https://matplotlib.org/stable/_images/m17.png) |
+| x        | ![](https://matplotlib.org/stable/_images/m18.png) |
+| X        | ![](https://matplotlib.org/stable/_images/m24.png) |
+| D        | ![](https://matplotlib.org/stable/_images/m19.png) |
+| d        | ![](https://matplotlib.org/stable/_images/m20.png) |
+| &#124;        | ![](https://matplotlib.org/stable/_images/m21.png) |
+| _        | ![](https://matplotlib.org/stable/_images/m22.png) |
+| 0        | ![](https://matplotlib.org/stable/_images/m25.png) |
+| 1        | ![](https://matplotlib.org/stable/_images/m26.png) |
+| 2        | ![](https://matplotlib.org/stable/_images/m27.png) |
+| 3        | ![](https://matplotlib.org/stable/_images/m28.png) |
+| 4        | ![](https://matplotlib.org/stable/_images/m29.png) |
+| 5        | ![](https://matplotlib.org/stable/_images/m30.png) |
+| 6        | ![](https://matplotlib.org/stable/_images/m31.png) |
+| 7        | ![](https://matplotlib.org/stable/_images/m32.png) |
+| 8        | ![](https://matplotlib.org/stable/_images/m33.png) |
+| 9        | ![](https://matplotlib.org/stable/_images/m34.png) |
+| 10       | ![](https://matplotlib.org/stable/_images/m35.png) |
+| 11        | ![](https://matplotlib.org/stable/_images/m36.png) |
+| $...$        | ![](https://matplotlib.org/stable/_images/m37.png) |
 
 ## Todo
 
