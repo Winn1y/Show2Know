@@ -33,9 +33,9 @@
 
 **[2023/06/01] [v2.2版本](https://github.com/Winn1y/Show2Know): 新增Marker点形状笔记整理**
 
-[2023/05/25] [v2.1版本](https://github.com/Winn1y/Show2Know/releases/tag/2.1):  Push基本版本，完善文档。
+[2023/05/25] [v2.1版本](https://github.com/Winn1y/Show2Know/tree/2.1):  Push基本版本，完善文档。
 
-[2023/05/25] [v2.0版本](https://github.com/Winn1y/Show2Know/releases/tag/2.0): 公开建立初始化Repo。
+[2023/05/25] [v2.0版本](https://github.com/Winn1y/Show2Know/tree/2.0): 公开建立初始化Repo。
 
 ## Marker整理
 
@@ -77,7 +77,33 @@
 | 9        | ![](https://matplotlib.org/stable/_images/m34.png) |
 | 10       | ![](https://matplotlib.org/stable/_images/m35.png) |
 | 11        | ![](https://matplotlib.org/stable/_images/m36.png) |
-| $...$        | ![](https://matplotlib.org/stable/_images/m37.png) |
+| \$...\$        | ![](https://matplotlib.org/stable/_images/m37.png) |
+
+<table>
+  <tbody>
+     <tr>
+      <td align="center" valign="top" width="50%">Marker 点形状</td>
+      <td align="center" valign="top" width="50%">可视化</td>
+    </tr>
+     <tr>
+      <td align="center" valign="top" width="50%">,</td>
+      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m01.png" width="25px;"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">.</td>
+      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m00.png" width="25px;"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">o</td>
+      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m02.png" width="25px;"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">\$...\$</td>
+      <td align="center" valign="top" width="50%"><img src="https://matplotlib.org/stable/_images/m37.png" width="25px;"></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Todo
 
@@ -97,7 +123,6 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Surge-Dan"><img src="https://avatars.githubusercontent.com/u/82951455?v=4" width="100px;" alt="
 Daniel Muei"/><br /><sub><b>Daniel Muei</b></sub></a><br /><a href="https://github.com/Surge-Dan" title="Bug reports">🐛</a> <a href="https://github.com/Surge-Dan" title="Code">💻</a></td>
     </tr>
-
   </tbody>
 </table>
 
