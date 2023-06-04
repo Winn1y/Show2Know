@@ -41,3 +41,4 @@ plt.scatter(x, y, c=color, s=sizes, alpha=alpha, cmap='viridis',norm=changecolor
 plt.colorbar()
 plt.show()
 
+
