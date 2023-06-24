@@ -65,3 +65,8 @@ Normalize，默认值为None。如果c参数为浮点数数组，norm参数在[0
 支持数据批量输入，以以下的形式
 x, y, s, linewidths, edgecolors, c, facecolor, facecolors, color 
 
+## Demo展示
+
+https://github.com/Winn1y/Show2Know/blob/main/1%20Scatter%20Plot/scatter.py
+
+
