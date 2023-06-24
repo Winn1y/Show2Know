@@ -89,8 +89,9 @@ data = {'a': [ 0, 1,2,5,10,15],
         'b': [10,20,5,1,20,40],
         'c': [ 1,20,5,5, 2,30],
         'd': [200,500,100,400,100,300]}
+alpha = [0.1,0.1,0.1,1.0, 0.8, 0.6]
 
-plt.scatter('a', 'b', c='c', s='d', data=data)
+plt.scatter('a', 'b', c='c', s='d', alpha=alpha, data=data)
 plt.xlabel('entry a')
 plt.ylabel('entry b')
 plt.show()
