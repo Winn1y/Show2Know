@@ -47,7 +47,7 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 
 ## Scatter散点图绘制方法
 
-
+https://github.com/Winn1y/Show2Know/blob/main/1%20Scatter%20Plot/readme.md
 
 ## Marker整理
 
