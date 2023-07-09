@@ -33,7 +33,9 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 
 ## 新闻
 
-**[2023/06/24] [v2.5版本](https://github.com/Winn1y/Show2Know): 更新scatter函数说明**
+**[2023/07/09] [v2.6版本](https://github.com/Winn1y/Show2Know/): 更新 colormap 函数说明 (by Venchili)**
+
+[2023/06/24] [v2.5版本](https://github.com/Winn1y/Show2Know/tree/2.5): 更新scatter函数说明
 
 [2023/06/04] [v2.4版本](https://github.com/Winn1y/Show2Know/tree/2.4): 新增带色表散点图演示笔记整理
 
@@ -139,8 +141,8 @@ plt.show()
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="100px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/Winn1y" title="Code">💻</a> <a href="https://github.com/Winn1y" title="Design">🎨</a> <a href="https://github.com/Winn1y" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Surge-Dan"><img src="https://avatars.githubusercontent.com/u/82951455?v=4" width="100px;" alt="
-Daniel Muei"/><br /><sub><b>Daniel Muei</b></sub></a><br /><a href="https://github.com/Surge-Dan" title="Bug reports">🐛</a> <a href="https://github.com/Surge-Dan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Surge-Dan"><img src="https://avatars.githubusercontent.com/u/82951455?v=4" width="100px;" alt="Daniel Muei"/><br /><sub><b>Daniel Muei</b></sub></a><br /><a href="https://github.com/Surge-Dan" title="Bug reports">🐛</a> <a href="https://github.com/Surge-Dan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Venchili"><img src="https://avatars.githubusercontent.com/u/114541991?v=4" width="100px;" alt="Venchili"/><br /><sub><b>Venchili</b></sub></a><br /><a href="https://github.com/Venchili" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
