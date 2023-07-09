@@ -68,7 +68,7 @@ mpl.colormaps.register(my_colormap)
 在标量映射对象发生了改变时进行通知
 
 ### /`colorbar`
-在图形中添加一个颜色条
+这里是说colorbar是ScalarMappable 对象的一个属性，用于引用最后一个关联的颜色条。最后这个关联的颜色条可能为 None，表示当前的 ScalarMappable 对象没有与之关联的颜色条。
 
 ### /`get_alpha()`
 获取标量映射对象的透明度参数，返回的是浮点数，且始终为1
