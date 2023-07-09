@@ -37,7 +37,7 @@ mpl.colormaps.register(my_colormap)
 
 **force**:默认False，当尝试覆盖已经注册的名称时，将引发ValueError；设置为Ture,则允许覆盖（谨慎选择True）
 
-### /`unregister(name)`
+### /`unregister(name)
 
 从注册表中删除色谱
 
@@ -68,7 +68,7 @@ mpl.colormaps.register(my_colormap)
 在标量映射对象发生了改变时进行通知
 
 ### /`colorbar`
-在图形中添加一个颜色条，用于表示标量映射的取值范围，可能没有
+这里是说colorbar是ScalarMappable 对象的一个属性，用于引用最后一个关联的颜色条。最后这个关联的颜色条可能为 None，表示当前的 ScalarMappable 对象没有与之关联的颜色条。
 
 ### /`get_alpha()`
 获取标量映射对象的透明度参数，返回的是浮点数，且始终为1
@@ -96,7 +96,7 @@ mpl.colormaps.register(my_colormap)
 **vmin、vmax**:float、None,也可以使用元组（vmin, vmax）
 
 ### /`set_cmap(cmap)`
-设置灰度数据的颜色映射
+设置颜色映射方式，可以为灰（亮）度数据设置颜色映射方式
 
 **cmap**:colormap对象、字符串、None
 
@@ -118,11 +118,11 @@ mpl.colormaps.register(my_colormap)
 
 **norm**:False，则不执行输入数据的归一化，并且假设其在范围（0-1）内;Ture，进行归一化到（0-1），默认为Ture
 
-### /`matplotlib.cm.get_cmap(name=None, lut=None)`
-[已弃用]获取指定名称的Colormap对象，改用matplotlib.colormaps[name]或matplotlb.colormaps.get_cmap（obj）
+### /`matplotlib.cm.get_cmap(name=None, lut=None)`[3.7以前版本可用]
+获取指定名称的Colormap对象，3.7及以后版本改用matplotlib.colormaps[name]或matplotlb.colormaps.get_cmap（obj）
 
-### /`matplotlib.cm.register_cmap(name=None, cmap=None, *, override_builtin=False)`
-[已弃用]注册新的颜色映射，使用`matplotlib.colormaps.register(name)`替代
+### /`matplotlib.cm.register_cmap(name=None, cmap=None, *, override_builtin=False)`[3.7以前版本可用]
+注册新的颜色映射，3.7及以后版本使用`matplotlib.colormaps.register(name)`替代
 
-### /`matplotlib.cm.unregister_cmap(name)`
-[已弃用]取消注册颜色映射，使用`matplotlib.colormaps.unregister(name)`替代
+### /`matplotlib.cm.unregister_cmap(name)`[3.7以前版本可用]
+取消注册颜色映射，3.7及以后版本使用`matplotlib.colormaps.unregister(name)`替代
