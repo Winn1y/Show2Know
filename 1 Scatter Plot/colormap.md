@@ -1,8 +1,128 @@
-# **色谱（colormap）**
-## **简介**
-色谱是一组颜色的集合。Matplotlib提供了很多内置调色板。
-## **相关链接**
-https://matplotlib.org/stable/api/cm_api.html#matplotlib.cm.ColormapRegistry.get_cmap
-## **获取**
-`get_cmap(cmap)`返回指定的颜色图
-### **参数解释**
+# matplotlib.cm模块
+Matplotlib库中的一个子模块，用于处理颜色映射（colormaps）。它提供了一系列预定义的颜色映射对象，可以将数值数据映射到颜色空间，用于可视化数据。
+
+官方链接：https://matplotlib.org/stable/api/cm_api.html#matplotlib.cm.ColormapRegistry.get_cmap
+
+本介绍主要包括两个类`class matplotlib.cm.ColormapRegistry(cmaps)`、`class matplotlib.cm.ScalarMappable(norm=None, cmap=None)`及其中可调用的函数。
+
+## /`class matplotlib.cm.ColormapRegistry(cmaps)`
+提供了类似字典的接口，可以通过名称来访问已注册的颜色映射。它允许用户注册自定义的颜色映射，并提供了一种方便的方式来管理和访问这些颜色映射。
+
+- 使用类字典方式通过名称获取对应的Colormap,这种方式所读取的色谱是副本，对其进行修改并不会影响到全局色谱
+```python
+import matplotlib as mpl
+cmap = mpl.colormaps['viridis']
+```
+
+- 添加colormap到colormaps中：
+```python
+mpl.colormaps.register(my_colormap)
+```
+
+### /`get_cmap(cmap)`
+返回指定的颜色图
+
+**cmap**:取值为字符串、`Colormap`对象、None
+- 字符串，在`mpl.colormaps`中搜索并返回对应的colormap对象
+- `Colormap`直接返回此对象
+- None，返回`rcParams["image.cmap"]`定义的Colormap，默认为`'viridis'`
+  
+### /`register(_cmap_, _*_, _name=None_, _force=False_)`  
+
+注册一个新的色谱,名称可以用作Matplotlib中任何cmap参数的字符串参数
+
+**cmap**:要注册的matplotlib.colors.Colormap对象，cmap参数是必需的，它应该是一个有效的Colormap对象。可以使用预定义的Colormap对象（如matplotlib.cm.viridis）或自定义的Colormap对象
+
+**name**（可选参数）:字符串格式，如果未提供，则使用`cmap.name`作为名称
+
+**force**:默认False，当尝试覆盖已经注册的名称时，将引发ValueError；设置为Ture,则允许覆盖（谨慎选择True）
+
+### /`unregister(name)`
+
+从注册表中删除色谱
+
+**name**:字符串格式
+
+⚠️ 
+- 无法删除内置的颜色映射。
+- 如果色谱未注册，不会报错
+- 如果试图取消默认色谱，会报错
+
+## /`class matplotlib.cm.ScalarMappable(norm=None, cmap=None)`
+用于将数据值映射到颜色映射（colormap）的范围。
+
+**norm**:设定数据归一化的方式，取值为`Normalize`及其子项、字符串、None
+- `Normalize`及其子项:Normalize、LogNorm、SymLogNorm、PowerNorm
+- 字符串:根据该字符串生成相应的归一化对象。生成的归一化对象会根据数据的范围进行归一化，使数据值在 [0, 1] 的区间内。如"linear"、"power"、"log"
+- None:默认使用colors.Normalize对象作为归一化方式
+
+**cmap**:将归一化数值映射到RGBA颜色，取值为字符串、Colormap对象
+
+### /`autoscale()`
+根据数据的范围动态调整规范化实例的标量范围，以确保数据在合适的范围内显示。这样可以正确地缩放颜色映射，确保颜色准确地代表数据值。
+
+### /`autoscale_None()`
+会检查图形对象的限制（如x轴和y轴的限制）是否为None。如果某个限制为None，即未手动设置，则会根据该对象所包含的数据来自动确定该限制的合适取值。
+
+### /`changed()`
+在标量映射对象发生了改变时进行通知
+
+### /`colorbar`
+在图形中添加一个颜色条，用于表示标量映射的取值范围，可能没有
+
+### /`get_alpha()`
+获取标量映射对象的透明度参数，返回的是浮点数，且始终为1
+
+### /`get_array()`
+返回映射到颜色的值的数组（对数组的维度没有要求）
+
+### /`get_clim()`
+返回映射到颜色映射边界的值，也就是最小值、最大值
+
+### /`get_cmap()`
+返回所使用的颜色映射colormap实例
+
+### /`property norm`
+通过property关键字定义的属性norm,可以像访问普通属性一样进行访问,从而获取norm归一化属性
+
+### /`set_array(A)`
+设置与颜色相关联的值数组
+
+**A**:数组、None（对数组的维度没有要求）
+
+### /`set_clim(vmin=None, vmax=None)`
+设置颜色映射的数据范围
+
+**vmin、vmax**:float、None,也可以使用元组（vmin, vmax）
+
+### /`set_cmap(cmap)`
+设置灰度数据的颜色映射
+
+**cmap**:colormap对象、字符串、None
+
+### /`set_norm(norm)`
+设置归一化方式
+
+**norm**:Normalize、字符串、None
+
+⚠️设置可映射对象的规范时，与该规范相关联的颜色条的规范、刻度定位器和标签格式化程序将被重置为默认值
+
+### /`to_rgba(x, alpha=None, bytes=False, norm=True)`
+返回x对应的规范化rgba数组
+
+**x**:颜色参数，可以是字符串、RGB元组、RGBA元组、十六进制值等
+
+**alpha**:可选参数，用于指定颜色的透明度。如果未提供，将根据x的类型进行自动推断
+
+**bytes**:False（默认值），则获得的rgba数组将在0-1范围内浮动；如果为True，则返回的rgba数组将为0到255范围内的uint8格式
+
+**norm**:False，则不执行输入数据的归一化，并且假设其在范围（0-1）内;Ture，进行归一化到（0-1），默认为Ture
+
+### /`matplotlib.cm.get_cmap(name=None, lut=None)`
+[已弃用]获取指定名称的Colormap对象，改用matplotlib.colormaps[name]或matplotlb.colormaps.get_cmap（obj）
+
+### /`matplotlib.cm.register_cmap(name=None, cmap=None, *, override_builtin=False)`
+[已弃用]注册新的颜色映射，使用`matplotlib.colormaps.register(name)`替代
+
+### /`matplotlib.cm.unregister_cmap(name)`
+[已弃用]取消注册颜色映射，使用`matplotlib.colormaps.unregister(name)`替代
