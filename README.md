@@ -141,8 +141,8 @@ plt.show()
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="100px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/Winn1y" title="Code">💻</a> <a href="https://github.com/Winn1y" title="Design">🎨</a> <a href="https://github.com/Winn1y" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Surge-Dan"><img src="https://avatars.githubusercontent.com/u/82951455?v=4" width="100px;" alt="Daniel Muei"/><br /><sub><b>Daniel Muei</b></sub></a><br /><a href="https://github.com/Surge-Dan" title="Bug reports">🐛</a> <a href="https://github.com/Surge-Dan" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Venchili"><img src="https://avatars.githubusercontent.com/u/114541991?v=4" width="100px;" alt="Venchili"/><br /><sub><b>Venchili</b></sub></a><br /><a href="https://github.com/Venchili" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YasmineLIu"><img src="https://avatars.githubusercontent.com/u/58419668?v=4" width="100px;" alt="yaxin LIU"/><br /><sub><b>yaxin LIU</b></sub></a><br /><a href="https://github.com/YasmineLIu" title="Bug reports">🐛</a> <a href="https://github.com/YasmineLIu" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
