@@ -142,7 +142,7 @@ import matplotlib.pyplot as plt
 
 '''#Demo1:get_cmap函数所获取内容为colormap对象，为matplotlib中的一种数据类型'''
 cmap = cm.get_cmap('viridis')
-print(cmap) '''#<matplotlib.colors.ListedColormap object at 0x7fbb60a6ec40>'''
+print(cmap) # <matplotlib.colors.ListedColormap object at 0x7fbb60a6ec40>
 
 '''#Demo2:取消注册颜色映射'''
 cm.unregister_cmap('my_cmap01')
