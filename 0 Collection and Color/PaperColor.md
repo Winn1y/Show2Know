@@ -11,7 +11,7 @@
 #E7DAD2
 ```
 
-![Alt text](img/image-1.png)
+![Alt text](pics/image-1.png)
 
 ## 02配色
 
@@ -24,7 +24,7 @@
 #E7DAD2
 ```
 
-![Alt text](img/image-2.png)
+![Alt text](pics/image-2.png)
 
 ## 03配色
 
@@ -37,7 +37,7 @@
 #E7DAD2
 ```
 
-![Alt text](img/image-3.png)
+![Alt text](pics/image-3.png)
 
 
 ## 04配色
@@ -53,7 +53,7 @@
 #96CCCB
 ```
 
-![Alt text](img/image-4.png)
+![Alt text](pics/image-4.png)
 
 ## 05配色
 
@@ -72,4 +72,4 @@
 #c97937
 ```
 
-![Alt text](img/image-5.png)
+![Alt text](pics/image-5.png)
