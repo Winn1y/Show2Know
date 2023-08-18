@@ -45,13 +45,15 @@ plt.show()
 
 图1：感知均匀的颜色映射（来自Aquarel）
 
-![Alt text](0 Collection and Color/pics/Pasted image 20230818134801.png)
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818134801.png" alt="Alt text" width="500" align="left">
+
+
+
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818134938.png" alt="Alt text" width="500">
 
 图2：色相、明度（亮度）与饱和度
-![Alt text](0 Collection and Color/pics/Pasted image 20230818134938.png)
 
-**不同类别
-的颜色映射（colormaps）及应用场景**
+**不同类别的颜色映射（colormaps）及应用场景**
 1. **Sequential（顺序）** 
 这类颜色映射在颜色的明度和饱和度逐渐变化，通常使用单一色调。它们适用于**表示具有顺序的信息**。例如，用于表示温度、海拔高度等逐渐变化的数据。
 2. **Diverging（分散）**
@@ -66,21 +68,27 @@ plt.show()
 - 顺序图中，亮度值逐渐单调递增。
 - 二进制（二进制颜色映射通常包含只有两种颜色的映射，例如黑色和白色）和其他灰度映射值（灰度颜色映射通常包含一系列不同灰度级别的颜色，从纯黑到纯白）范围可以从0到100，而其他映射的范围一般从30左右开始，具有较小值范围的映射在感知范围上也会相应较小
 - 颜色映射中的值函数在不同映射之间有所变化：有些映射在亮度上近似线性，而其他映射则为曲线
-![Alt text](0 Collection and Color/pics/Pasted image 20230818151230.png)
-![Alt text](0 Collection and Color/pics/Pasted image 20230818151550.png)
-![Alt text](0 Collection and Color/pics/Pasted image 20230818152104.png)
+
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818151230.png" alt="Alt text" width="800" >
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818151550.png" alt="Alt text" width="800" >
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818152104.png" alt="Alt text" width="800" >
+
 2. 分散图
 - 在分散型颜色映射中，我们希望亮度值单调递增，直到达到一个最大值，该最大值应接近于100，然后亮度值单调递减
 - 在颜色映射的两个相反端点处希望具有近似相等的最小亮度值
-![Alt text](0 Collection and Color/pics/Pasted image 20230818153238.png)
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818153238.png" alt="Alt text" width="800" >
+
 3. 循环图
 - 在循环型颜色映射中，我们希望从相同的颜色开始和结束，并在中间达到一个对称的中心点。
 - 亮度应从开始到中间单调变化，从中间到结束反向变化。
 - 它在增加和减少的一侧应对称，并且只在色调上有所不同。
 - 在两端和中间，亮度会改变方向，应在亮度空间中进行平滑处理。
-![Alt text](0 Collection and Color/pics/Pasted image 20230818153459.png)
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818153459.png" alt="Alt text" width="800">
+
+
  4. 杂色图
- ![Alt text](0 Collection and Color/pics/Pasted image 20230818153708.png)
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818153708.png" alt="Alt text" width="800" >
+
  5. 其他项
  - 一些颜色映射有特殊用途
  - 'flag': 通常用于标志或国家相关的数据可视化，具有红、白、蓝等颜色。
@@ -92,4 +100,5 @@ plt.show()
 - 'jet': 常用于数据可视化，但同样因为视觉失真，不适合作为感知映射。
 - 'turbo': 用于显示深度和视差数据，被设计成在灰度显示时也效果良好。
 - 'nipy_spectral' 和 'gist_ncar': 通常用于绘制光谱数据或特定领域的数据。
-![Alt text](0 Collection and Color/pics/Pasted image 20230818154315.png)
+<img src="https://github.com/Venchili/Show2Know/blob/wenqi_0818/0%20Collection%20and%20Color/pics/Pasted%20image%2020230818154315.png" alt="Alt text" width="800">
+
