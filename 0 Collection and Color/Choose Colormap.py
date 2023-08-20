@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from colorspacious import cspace_converter
 
 # pip install colorspacious
+# matplot 版本 3.5.2 正常运行
 
 ## 准备工作
 cmaps = {} # 创建一个空的字典 cmaps，用于存储不同类型颜色映射的列表
