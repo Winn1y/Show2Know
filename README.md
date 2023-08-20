@@ -33,7 +33,9 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 
 ## 新闻
 
-**[2023/08/06] [v2.8版本](https://github.com/Winn1y/Show2Know/): 更新 常用论文配色方案 (by Winniy)**
+**[2023/08/06] [v2.9版本](https://github.com/Winn1y/Show2Know/): 更新 Choose Colormap 功能说明 (by Venchili)**
+
+[2023/08/06] [v2.8版本](https://github.com/Winn1y/Show2Know/tree/2.8): 更新 常用论文配色方案 (by Winniy)
 
 [2023/07/23] [v2.7版本](https://github.com/Winn1y/Show2Know/tree/2.7): 更新 collection 函数说明 (by YasmineLIu)
 
