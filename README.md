@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-2.9-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-3.0-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 
 ## 新闻
 
-**[2023/08/20] [v2.9版本](https://github.com/Winn1y/Show2Know/): 更新 Choose Colormap 功能说明 (by Venchili)**
+**[2023/09/03] [v3.0版本](https://github.com/Winn1y/Show2Know/): 更新 Collection 中 polyCollection 和 RegularPolyCollection 功能说明 (by YasmineLIu)**
+
+[2023/08/20] [v2.9版本](https://github.com/Winn1y/Show2Know/tree/2.9): 更新 Choose Colormap 功能说明 (by Venchili)
 
 [2023/08/06] [v2.8版本](https://github.com/Winn1y/Show2Know/tree/2.8): 更新 常用论文配色方案 (by Winniy)
 
