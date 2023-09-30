@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-3.1-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-3.2-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 
 ## 新闻
 
-**[2023/09/18] [v3.1版本](https://github.com/Winn1y/Show2Know/): 更新 五数概括法及箱型法绘制 知识点 (by Winniy)**
+**[2023/09/18] [v3.2版本](https://github.com/Winn1y/Show2Know/): 更新 误差线绘制方法 知识点 (by Venchili)**
+
+[2023/09/18] [v3.1版本](https://github.com/Winn1y/Show2Know/tree/3.1): 更新 五数概括法及箱型法绘制 知识点 (by Winniy)
 
 [2023/09/03] [v3.0版本](https://github.com/Winn1y/Show2Know/tree/3.0): 更新 Collection 中 polyCollection 和 RegularPolyCollection 功能说明 (by YasmineLIu)
 
