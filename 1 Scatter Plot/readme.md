@@ -70,3 +70,41 @@ x, y, s, linewidths, edgecolors, c, facecolor, facecolors, color
 https://github.com/Winn1y/Show2Know/blob/main/1%20Scatter%20Plot/scatter.py
 
 
+## 向散点图额外再添加一个坐标轴表示程度
+
+### 函数原型
+
+matplotlib.pyplot.axes(arg=None, **kwargs)
+
+### 函数说明
+
+向当前图形添加一个坐标轴，并使其成为当前坐标轴。
+
+### 函数参数
+
+**arg**：
+
+当使用None时，添加新的完整窗口轴，相当于使用subplot(**kwargs)
+
+当使用四元数组时，4-tuple of floats rect = (left, bottom, width, height).添加一个新的坐标轴，维度为规范化的矩形 (0,1)添加到当前图形上使用的单位。
+
+**projection**：
+
+投影类型，{None, 'aitoff', 'hammer', 'lambert', 'mollweide', 'polar', 'rectilinear', str}
+默认None会产生rectilinear的直线投影
+
+**polar**
+
+暂未了解具体功能
+
+**sharex，sharey**
+
+共享x或y。 轴将具有与轴相同的限制、刻度和比例，暂未实验
+
+**label**
+
+标签
+
+**展示Demo**
+
+https://github.com/Winn1y/Show2Know/blob/main/1%20Scatter%20Plot/scatter_axes.py
