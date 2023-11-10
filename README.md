@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-3.4-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-3.5-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望每周坚持分享一个小知识来积累可视化技术�
 
 ## 新闻
 
-**[2023/10/29] [v3.4版本](https://github.com/Winn1y/Show2Know/): 更新 bar 柱状图丰富知识点 (by Venchili)**
+**[2023/11/10] [v3.5版本](https://github.com/Winn1y/Show2Know/): 更新 T-SNE绘制 知识点 (by Winniy)**
+
+[2023/10/29] [v3.4版本](https://github.com/Winn1y/Show2Know/tree/3.4): 更新 bar 柱状图丰富知识点 (by Venchili)
 
 [2023/10/21] [v3.3版本](https://github.com/Winn1y/Show2Know/tree/3.3): 更新 axes 相关的知识点 (by Winniy)
 
