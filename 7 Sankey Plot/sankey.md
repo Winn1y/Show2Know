@@ -14,7 +14,7 @@ plotly go.Sankey 如何实现桑基图，主要依靠node和link的定义。
    1. pad：节点之间的间距；
    2. thickness：节点本身的厚度；
    3. line：可以定义从node发出的线条的颜色；
-      4. label：每个node对应的名称。
+   4. label：每个node对应的名称。
 2. link绘制：主要由source、target、value、label四个参数来确定link。
    1. source：每一个link的出发点的对应的node中的label的索引（从0开始）；
    2. target：每一个link的终止点对应的node中的label的索引（从0开始）；
