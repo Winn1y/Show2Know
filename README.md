@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-3.9-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.0-green">
 </p>
 
 
@@ -32,7 +32,9 @@
 Tips：**我们希望[每两周]坚持分享一个小知识来积累可视化技术的成长，欢迎加入我们。**
 
 ## 新闻
-**[2024/01/08] [v3.9版本](https://github.com/Winn1y/Show2Know/): 更新 拟合曲线 知识点 (by YasmineLIu)**
+**[2024/01/29] [v4.0版本](https://github.com/Winn1y/Show2Know/): 更新 seaborn绘制热图 知识点 (by Venchili)**
+
+[2024/01/08] [v3.9版本](https://github.com/Winn1y/Show2Know/tree/3.9): 更新 拟合曲线 知识点 (by YasmineLIu)
 
 [2023/12/22] [v3.8版本](https://github.com/Winn1y/Show2Know/tree/3.8): 更新 95%置信区间绘制图案例 知识点 (by Winniy)
 
