@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.1-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.2-green">
 </p>
 
 
@@ -29,11 +29,13 @@
 
 💡 欢迎志同道合的同学积极联系一同参与工具建设！
 
-Tips：**我们希望[每个月底]坚持分享一个小知识来积累可视化技术的成长，积少成多，欢迎加入我们。**
+Tips：**我们希望[每个月底]坚持分享一个小知识来积累可视化技术的成长，由于平日有繁重学业压力，更新内容不会一次性更新太多，但积少成多，欢迎加入我们。**
 
 ## 新闻
 
-**[2024/02/23] [v4.1版本](https://github.com/Winn1y/Show2Know/): 更新 曲线图带文本及公式指向 知识点 (by Winniy)**
+**[2024/03/29] [v4.2版本](https://github.com/Winn1y/Show2Know/): 更新 JoyPlot 重叠山峦图 知识点 (by Venchili)**
+
+[2024/02/23] [v4.1版本](https://github.com/Winn1y/Show2Know/tree/4.1): 更新 曲线图带文本及公式指向 知识点 (by Winniy)
 
 [2024/01/29] [v4.0版本](https://github.com/Winn1y/Show2Know/tree/4.0): 更新 seaborn绘制热图 知识点 (by Venchili)
 
