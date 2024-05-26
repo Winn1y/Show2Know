@@ -54,8 +54,13 @@ def create_collage_with_text(images_with_text, font_path, font_size, font_color,
                 continue
             img_path, text = item
             img = Image.open(img_path)
-            img = img.resize((tile_width, current_row_height), Image.LANCZOS)
+            new_width = int(img.size[0] * (current_row_height / img.size[1]))  # 等比例缩放图片
+            if new_width < tile_width:
+                x_offset += (tile_width - new_width) // 2  # 计算x偏移，使图片居中
+            img = img.resize((new_width, current_row_height), Image.LANCZOS)
             new_im.paste(img, (x_offset, y_offset))
+            if new_width < tile_width:
+                x_offset -= (tile_width - new_width) // 2  # 恢复 方便文本居中
 
             # 如果存在文本，将其绘制在图片下方
             if text:
@@ -147,7 +152,7 @@ images_with_text = [
     [('resource/3_512crop_Moment1.jpg', '3_1'), ('resource/3_512crop_Moment2.jpg', '3_2'), ('resource/3_512crop_Moment3.jpg', '3_3')],
     [('resource/4_512crop_Moment1.jpg', '4_1'), ('resource/4_512crop_Moment2.jpg', '4_2'), ('resource/4_512crop_Moment3.jpg', '4_3')],
     [('resource/5_512crop_Moment1.jpg', '5_1'), ('resource/5_512crop_Moment2.jpg', '5_2'), ('resource/5_512crop_Moment3.jpg', '5_3')],
-    [('resource/6_special.jpg', '6_1')],
+    [('resource/6_special2.jpg', '6_2'), ('resource/6_special1.jpg', '6_1'),],
     [('resource/5_512crop_Moment1.jpg', '5_1'), ('resource/5_512crop_Moment2.jpg', '5_2'), ('resource/5_512crop_Moment3.jpg', '5_3')],
     # ... 更多图片和文本
 ]

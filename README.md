@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.3-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.4-green">
 </p>
 
 
@@ -29,11 +29,13 @@
 
 💡 欢迎志同道合的同学积极联系一同参与工具建设！
 
-Tips：**我们希望[每个月底]坚持分享一个小知识来积累可视化技术的成长，由于平日有繁重学业压力，更新内容不会一次性更新太多，但积少成多，欢迎加入我们。**
+Tips：**我们希望坚持分享一个小知识来积累可视化技术的成长，由于平日有繁重学业压力，更新内容不会一次性更新太多，但积少成多，欢迎加入我们。近期面临秋招/申博，因此进度有些放缓，但会挤时间坚持，如果有合作意向可以邮件联系（WinniyGD@outlook.com）。**
 
 ## 新闻
 
-**[2024/04/27] [v4.3版本](https://github.com/Winn1y/Show2Know/): 更新 实现论文中批量组合多个小图片脚本用于快速example展示[14 Multi-Image-To-One] 知识点 (by Winniy)**
+**[2024/05/26] [v4.4版本](https://github.com/Winn1y/Show2Know/): 更新 水平波动线 知识点 (by Venchili)**
+
+[2024/04/27] [v4.3版本](https://github.com/Winn1y/Show2Know/tree/4.3): 更新 实现论文中批量组合多个小图片脚本用于快速example展示[14 Multi-Image-To-One] 知识点 (by Winniy)**
 
 [2024/03/29] [v4.2版本](https://github.com/Winn1y/Show2Know/tree/4.2): 更新 JoyPlot 重叠山峦图 知识点 (by Venchili)
 
