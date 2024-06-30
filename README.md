@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.4-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.5-green">
 </p>
 
 
@@ -33,9 +33,11 @@ Tips：**我们希望坚持分享一个小知识来积累可视化技术的成�
 
 ## 新闻
 
-**[2024/05/26] [v4.4版本](https://github.com/Winn1y/Show2Know/): 更新 水平波动线 知识点 (by Venchili)**
+**[2024/06/30] [v4.5版本](https://github.com/Winn1y/Show2Know/): 更新 TimeMap 知识点 (by Winniy)**
 
-[2024/04/27] [v4.3版本](https://github.com/Winn1y/Show2Know/tree/4.3): 更新 实现论文中批量组合多个小图片脚本用于快速example展示[14 Multi-Image-To-One] 知识点 (by Winniy)**
+[2024/05/26] [v4.4版本](https://github.com/Winn1y/Show2Know/tree/4.4): 更新 水平波动线 知识点 (by Venchili)
+
+[2024/04/27] [v4.3版本](https://github.com/Winn1y/Show2Know/tree/4.3): 更新 实现论文中批量组合多个小图片脚本用于快速example展示[14 Multi-Image-To-One] 知识点 (by Winniy)
 
 [2024/03/29] [v4.2版本](https://github.com/Winn1y/Show2Know/tree/4.2): 更新 JoyPlot 重叠山峦图 知识点 (by Venchili)
 
