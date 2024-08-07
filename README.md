@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.5-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.6-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望坚持分享一个小知识来积累可视化技术的成�
 
 ## 新闻
 
-**[2024/06/30] [v4.5版本](https://github.com/Winn1y/Show2Know/): 更新 TimeMap 知识点 (by Winniy)**
+**[2024/08/07] [v4.6版本](https://github.com/Winn1y/Show2Know/): 更新 多线区域线条图绘制 知识点 (by Susie) ❀❀❀ 欢迎新伙伴 ❀❀❀**
+
+[2024/06/30] [v4.5版本](https://github.com/Winn1y/Show2Know/tree/4.5): 更新 TimeMap 知识点 (by Winniy)
 
 [2024/05/26] [v4.4版本](https://github.com/Winn1y/Show2Know/tree/4.4): 更新 水平波动线 知识点 (by Venchili)
 
@@ -181,6 +183,7 @@ plt.show()
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="100px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/Winn1y" title="Code">💻</a> <a href="https://github.com/Winn1y" title="Design">🎨</a> <a href="https://github.com/Winn1y" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Venchili"><img src="https://avatars.githubusercontent.com/u/114541991?v=4" width="100px;" alt="Venchili"/><br /><sub><b>Venchili</b></sub></a><br /><a href="https://github.com/Venchili" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/YasmineLIu"><img src="https://avatars.githubusercontent.com/u/58419668?v=4" width="100px;" alt="yaxin LIU"/><br /><sub><b>yaxin LIU</b></sub></a><br /><a href="https://github.com/YasmineLIu" title="Bug reports">🐛</a> <a href="https://github.com/YasmineLIu" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BadaLeexxx"><img src="https://avatars.githubusercontent.com/u/126305592?v=4" width="100px;" alt="Susie"/><br /><sub><b>Susie</b></sub></a><br /><a href="https://github.com/BadaLeexxx" title="Bug reports">😘🎄</a> <a href="https://github.com/BadaLeexxx" title="Code">😍</a></td>
     </tr>
   </tbody>
 </table>
