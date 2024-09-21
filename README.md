@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.6-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.7-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望坚持分享一个小知识来积累可视化技术的成�
 
 ## 新闻
 
-**[2024/08/07] [v4.6版本](https://github.com/Winn1y/Show2Know/): 更新 多线区域线条图绘制 知识点 (by Susie) ❀❀❀ 欢迎新伙伴 ❀❀❀**
+**[2024/09/22] [v4.7版本](https://github.com/Winn1y/Show2Know/): 更新 快速生成文本框图片 知识点 (by Winniy)**
+
+[2024/08/07] [v4.6版本](https://github.com/Winn1y/Show2Know/tree/4.6): 更新 多线区域线条图绘制 知识点 (by Susie) ❀❀❀ 欢迎新伙伴 ❀❀❀
 
 [2024/06/30] [v4.5版本](https://github.com/Winn1y/Show2Know/tree/4.5): 更新 TimeMap 知识点 (by Winniy)
 
