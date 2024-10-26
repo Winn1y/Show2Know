@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.7-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.8-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望坚持分享一个小知识来积累可视化技术的成�
 
 ## 新闻
 
-**[2024/09/22] [v4.7版本](https://github.com/Winn1y/Show2Know/): 更新 快速生成文本框图片 知识点 (by Winniy)**
+**[2024/10/26] [v4.8版本](https://github.com/Winn1y/Show2Know/): 更新 3D条状图生成 知识点 (by Luoxyhappy)  ❀❀❀ 欢迎新伙伴 ❀❀❀**
+
+[2024/09/22] [v4.7版本](https://github.com/Winn1y/Show2Know/tree/4.7): 更新 快速生成文本框图片 知识点 (by Winniy)
 
 [2024/08/07] [v4.6版本](https://github.com/Winn1y/Show2Know/tree/4.6): 更新 多线区域线条图绘制 知识点 (by Susie) ❀❀❀ 欢迎新伙伴 ❀❀❀
 
@@ -182,11 +184,13 @@ plt.show()
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="100px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/Winn1y" title="Code">💻</a> <a href="https://github.com/Winn1y" title="Design">🎨</a> <a href="https://github.com/Winn1y" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Venchili"><img src="https://avatars.githubusercontent.com/u/114541991?v=4" width="100px;" alt="Venchili"/><br /><sub><b>Venchili</b></sub></a><br /><a href="https://github.com/Venchili" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YasmineLIu"><img src="https://avatars.githubusercontent.com/u/58419668?v=4" width="100px;" alt="yaxin LIU"/><br /><sub><b>yaxin LIU</b></sub></a><br /><a href="https://github.com/YasmineLIu" title="Bug reports">🐛</a> <a href="https://github.com/YasmineLIu" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BadaLeexxx"><img src="https://avatars.githubusercontent.com/u/126305592?v=4" width="100px;" alt="Susie"/><br /><sub><b>Susie</b></sub></a><br /><a href="https://github.com/BadaLeexxx" title="Bug reports">😘🎄</a> <a href="https://github.com/BadaLeexxx" title="Code">😍</a></td>
-    </tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winn1y"><img src="https://avatars.githubusercontent.com/u/115919287?v=4" width="50px;" alt="Winniy"/><br /><sub><b>Winniy</b></sub></a><br /><a href="https://github.com/Winn1y" title="Code">💻</a> <a href="https://github.com/Winn1y" title="Design">🎨</a> <a href="https://github.com/Winn1y" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Venchili"><img src="https://avatars.githubusercontent.com/u/114541991?v=4" width="50px;" alt="Venchili"/><br /><sub><b>Venchili</b></sub></a><br /><a href="https://github.com/Venchili" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YasmineLIu"><img src="https://avatars.githubusercontent.com/u/58419668?v=4" width="50px;" alt="yaxin LIU"/><br /><sub><b>yaxin LIU</b></sub></a><br /><a href="https://github.com/YasmineLIu" title="Bug reports">🐛</a> <a href="https://github.com/YasmineLIu" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BadaLeexxx"><img src="https://avatars.githubusercontent.com/u/126305592?v=4" width="50px;" alt="Susie"/><br /><sub><b>Susie</b></sub></a><br /><a href="https://github.com/BadaLeexxx" title="Bug reports">😘🎄</a> <a href="https://github.com/BadaLeexxx" title="Code">😍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/luoxyhappy"><img src="https://avatars.githubusercontent.com/u/110818302?v=4" width="50px;" alt="Luoxyhappy"/><br /><sub><b>Luoxyhappy</b></sub></a><br /><a href="https://github.com/luoxyhappy" title="Bug reports">🚀</a><a href="https://github.com/luoxyhappy" title="Code">✨</a>
+</td>
+      </tr>
   </tbody>
 </table>
 
