@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.8-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.9-green">
 </p>
 
 
