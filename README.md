@@ -10,7 +10,7 @@
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/badge/license-Apache%202.0-blue">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-4.9-green">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Version-5.0-green">
 </p>
 
 
@@ -33,7 +33,9 @@ Tips：**我们希望坚持分享一个小知识来积累可视化技术的成�
 
 ## 新闻
 
-**[2025/01/06] [v4.9版本](https://github.com/Winn1y/Show2Know/): 更新 实战过程中的BoxPlot绘制 知识点 (by Winniy) 新年快乐🍟**
+**[2025/02/27] [v5.0版本](https://github.com/Winn1y/Show2Know/): 更新 3D路径规划实战过程中绘制物体地图Map 知识点 (by Susie)**
+
+[2025/01/06] [v4.9版本](https://github.com/Winn1y/Show2Know/tree/4.9): 更新 实战过程中的BoxPlot绘制 知识点 (by Winniy) 新年快乐🍟
 
 [2024/10/26] [v4.8版本](https://github.com/Winn1y/Show2Know/tree/4.8): 更新 3D条状图生成 知识点 (by Luoxyhappy)  ❀❀❀ 欢迎新伙伴 ❀❀❀
 
